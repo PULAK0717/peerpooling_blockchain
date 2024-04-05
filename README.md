@@ -1,6 +1,7 @@
 # P2P-Carpooling-DAPP
 
-An alternative cab service app to other apps like Ola, and Uber, which control the work environment for drivers and take chunks of cuts from their earnings as commission, making life difficult for a regular driver. This P2P Carpooling DAPP will connect drivers directly with customers to share a ride. The transactions will go through smart contracts run on blockchain technology and paid via cryptocurrency. Anyone can register as a driver and publish rides for people to book. This DAPP makes the process more hassle-free, making it more transparent.
+Blockchain technology can improve ridesharing services in several ways, including a decentralized ridehailing platform, secure identity verification, smart contract-enabled payments, transparent and
+auditable records, and token-based incentives.
 
 
 <hr>
@@ -32,45 +33,6 @@ An alternative cab service app to other apps like Ola, and Uber, which control t
 
 
 
-## Set-Up
-
-1. Install Yarn
-```
-npm install --global yarn
-```
-
-2. Install Dependencies:
-```
-yarn install
-```
-
-## To Run on Localhost:
-1. 
-```
-cd peerpool
-```
-2. 
-```
-yarn run dev
-```
-
-### Other Commands
-
-1. Compile Contracts:
-```
-yarn hardhat compile
-```
-
-2. Run Scripts:
-```
-yarn hardhat run <script name>
-```
-3. Run tests:
-```
-yarn hardhat test
-```
-
-
 
 <!-- Here is a brief intro about what a contributor must do in order to get started developing the project further:
 
@@ -99,16 +61,9 @@ git commit -m "your message"
 ### Backend: Solidity, Javascript
 <hr>
 
-### Contract Address: 0x4d30FE8d7847E6cC8B905518f32b40274f168Af7 (will be updated)
+### Contract Address: 0x4d30FE8d7847E6cC8B905518f32b40274f168Af7 
 
 <hr>
-
-### For Further Communications 
-* Join Our Discord Server: https://discord.gg/QHQ96vMF 
-* Email: 500096625@stu.upes.ac.in
-* Ping on discord: trev#4443
-
-
 
 <hr>
 

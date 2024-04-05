@@ -1,6 +1,6 @@
 # P2P-Carpooling-DAPP
 
-Blockchain technology can improve ridesharing services in several ways, including a decentralized ridehailing platform, secure identity verification, smart contract-enabled payments, transparent and
+Blockchain technology can improve ridesharing services in several ways, including a decentralized ride hailing platform, secure identity verification, smart contract-enabled payments, transparent and
 auditable records, and token-based incentives.
 
 
